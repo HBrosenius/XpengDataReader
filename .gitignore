@@ -1,0 +1,9 @@
+*.zip
+*.csv
+dist/data.json
+.openai/
+site-deploy.tar.gz
+dashboard.html
+__pycache__/
+.site-workflow/
+.openai/.local/

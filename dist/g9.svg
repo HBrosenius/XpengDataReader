@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 260" role="img" aria-labelledby="g9-title">
+  <title id="g9-title">Silver XPENG G9 Performance SUV illustration</title>
+  <defs>
+    <linearGradient id="g9-paint" x1="0" y1="0" x2="0.2" y2="1">
+      <stop stop-color="#fcfdfb"/><stop offset=".35" stop-color="#e4eae6"/>
+      <stop offset=".55" stop-color="#bccbc5"/><stop offset=".65" stop-color="#dde5df"/>
+      <stop offset="1" stop-color="#8b9f94"/>
+    </linearGradient>
+    <linearGradient id="g9-glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#82938b"/><stop offset=".45" stop-color="#3b514a"/><stop offset="1" stop-color="#22382f"/>
+    </linearGradient>
+    <linearGradient id="g9-front" x2="1" y2=".3"><stop stop-color="#dbe4dc"/><stop offset="1" stop-color="#a3b4aa"/></linearGradient>
+    <linearGradient id="g9-rim" x2="1" y2="1"><stop stop-color="#e7ece7"/><stop offset=".45" stop-color="#85978c"/><stop offset="1" stop-color="#cad6cd"/></linearGradient>
+    <filter id="g9-shadow" x="-.3" y="-1" width="1.6" height="3"><feGaussianBlur stdDeviation="6"/></filter>
+    <g id="g9-wheel">
+      <circle r="39" fill="#26372f"/><circle r="35.5" fill="#34443a" stroke="#586b5e"/>
+      <circle r="29" fill="#1f3228" stroke="#c3cec3" stroke-width="2"/>
+      <path d="M17-18Q27-7 23 9L17 13L14-11Z" fill="#b89a6a"/>
+      <g fill="url(#g9-rim)">
+        <path id="g9-spoke" d="M-5-5L-9-27L-3-28L4-9L10-26L15-24L8-3Z"/>
+        <use href="#g9-spoke" transform="rotate(72)"/><use href="#g9-spoke" transform="rotate(144)"/>
+        <use href="#g9-spoke" transform="rotate(216)"/><use href="#g9-spoke" transform="rotate(288)"/>
+      </g>
+      <circle r="8" fill="#a9b9ad" stroke="#657b6c"/>
+      <path d="M-4-3L0 0L4-3M-4 3L0 0L4 3" fill="none" stroke="#3b5344" stroke-width="1.4"/>
+    </g>
+  </defs>
+  <ellipse cx="296" cy="226" rx="238" ry="11" fill="#284c40" opacity=".16" filter="url(#g9-shadow)"/>
+  <!-- Long, level roof and a tall, squared-off SUV cabin. -->
+  <path d="M55 176L58 129Q60 114 77 109L160 96L198 63Q209 55 229 55L407 55Q423 56 435 68L483 98L511 105Q526 110 529 125L532 178Q526 193 503 195H85Q60 192 55 176Z" fill="url(#g9-paint)" stroke="#a5b6a8" stroke-width="1.2"/>
+  <path d="M182 92L207 66Q214 61 230 61H406Q420 62 429 72L465 97L184 99Z" fill="#263c31"/>
+  <path d="M204 69L174 99L241 98L245 67H224Q212 67 204 69Z" fill="url(#g9-glass)"/>
+  <path d="M251 67H326L326 98H248Z" fill="url(#g9-glass)"/>
+  <path d="M334 67H403L421 98H334Z" fill="url(#g9-glass)"/>
+  <path d="M411 69Q417 70 425 78L452 98H432Z" fill="url(#g9-glass)"/>
+  <path d="M183 101L469 101" stroke="#cbd6cb" stroke-width="2"/>
+  <path d="M212 58L406 58" stroke="#657c6a" stroke-width="2"/>
+  <path d="M227 63L404 63" stroke="#819588" stroke-width="1.1" opacity=".6"/>
+  <!-- Flat bonnet, continuous running light, and separate lower headlamps. -->
+  <path d="M62 119L145 106L176 99L163 96L77 109Q66 112 62 119Z" fill="#edf2ea"/>
+  <path d="M58 128L133 117L129 180L62 182Q55 178 55 164Z" fill="url(#g9-front)"/>
+  <path d="M62 126L131 116L165 113" fill="none" stroke="#6c8272" stroke-width="5"/>
+  <path d="M62 125L132 115L165 112" fill="none" stroke="#f7fff0" stroke-width="2.6"/>
+  <path d="M67 143L89 140L88 153L66 156Z" fill="#344b3b"/>
+  <path d="M69 144L85 142M69 149L85 147" stroke="#e1ebd9" stroke-width="1.6"/>
+  <path d="M59 169L119 161L120 181L62 187Z" fill="#3d5344"/>
+  <path d="M66 174L109 169" stroke="#647c69" stroke-width="1.5"/>
+  <path d="M94 137L98 140L102 135M94 144L98 140L102 142" fill="none" stroke="#526b56" stroke-width="1.5"/>
+  <!-- Subtle shoulder line, flush handles, black sills and squared tail. -->
+  <path d="M166 116Q319 111 515 119" fill="none" stroke="#f6f8f0" stroke-width="2" opacity=".8"/>
+  <path d="M193 109L191 176M328 107L328 179M426 108L455 171" fill="none" stroke="#93a792" stroke-width="1"/>
+  <path d="M269 121H288M375 121H394" stroke="#687f6b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M196 102L179 101Q172 102 172 108L184 113L197 110Z" fill="#637a68" stroke="#b6c5b5"/>
+  <path d="M505 120L525 125L525 133L505 129Z" fill="#ac8171"/>
+  <path d="M509 121L524 125" stroke="#e5a38a" stroke-width="2"/>
+  <path d="M87 182L505 182L520 179L517 193L490 201H101L78 193Z" fill="#4d6451"/>
+  <path d="M185 183H398" stroke="#aebda8" stroke-width="3"/>
+  <!-- Large Performance-style split-spoke alloys and substantial wheel arches. -->
+  <path d="M104 188A45 45 0 0 1 194 188M396 188A45 45 0 0 1 486 188" fill="none" stroke="#748b73" stroke-width="6"/>
+  <use href="#g9-wheel" transform="translate(149 187)"/>
+  <use href="#g9-wheel" transform="translate(441 187)"/>
+  <path d="M206 172L389 172" stroke="#e7ede1" stroke-width="1" opacity=".7"/>
+</svg>

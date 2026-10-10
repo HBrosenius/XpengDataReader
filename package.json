@@ -1,0 +1,10 @@
+{
+  "name": "xpeng-drive-journal",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tools/import.test.cjs",
+    "check": "node --check dist/app.js && node --check server.mjs"
+  }
+}
